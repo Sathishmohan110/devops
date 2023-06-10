@@ -1,0 +1,46 @@
+2023-06-10 00:00:08.336  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:00:08.340  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:00:08.347  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:00:31.695  INFO 9440 --- [http-nio-5000-exec-1] t.p.s.Controller.StudentController       : Login  Controller  method called
+2023-06-10 00:00:31.696  INFO 9440 --- [http-nio-5000-exec-1] t.p.s.Service.StudentDetailsService      : GET by student Name Service method is called 
+2023-06-10 00:02:14.857  INFO 9440 --- [http-nio-5000-exec-5] t.p.s.Controller.StudentController       : GET all  student details Controller  method called
+2023-06-10 00:02:28.685  INFO 9440 --- [http-nio-5000-exec-6] t.p.s.Controller.StudentController       : Add student details Controller  method called
+2023-06-10 00:02:28.686  INFO 9440 --- [http-nio-5000-exec-6] t.p.s.Service.StudentDetailsService      : Add student details Service method called 
+2023-06-10 00:02:28.686  INFO 9440 --- [http-nio-5000-exec-6] t.p.s.Service.StudentDetailsService      : Book exists service method called
+2023-06-10 00:02:34.493  INFO 9440 --- [http-nio-5000-exec-7] t.p.s.Controller.StudentController       : Delete student details Controller  method called
+2023-06-10 00:02:34.494  INFO 9440 --- [http-nio-5000-exec-7] t.p.s.Service.StudentDetailsService      : Delete student details service method has been called by the controller delete method
+2023-06-10 00:02:41.234  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Controller.StudentController       : Delete student details Controller  method called
+2023-06-10 00:02:41.234  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Service.StudentDetailsService      : Delete student details service method has been called by the controller delete method
+2023-06-10 00:02:50.211  INFO 9440 --- [http-nio-5000-exec-9] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:02:50.212  INFO 9440 --- [http-nio-5000-exec-9] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:02:50.217  INFO 9440 --- [http-nio-5000-exec-9] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:02:50.218 ERROR 9440 --- [http-nio-5000-exec-9] t.p.s.Service.StudentDetailsService      : The Id is not availabe , so error message is throwed
+2023-06-10 00:02:55.433  INFO 9440 --- [http-nio-5000-exec-10] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:02:55.433  INFO 9440 --- [http-nio-5000-exec-10] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:02:55.440  INFO 9440 --- [http-nio-5000-exec-10] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:03:06.568  INFO 9440 --- [http-nio-5000-exec-1] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:03:06.568  INFO 9440 --- [http-nio-5000-exec-1] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:03:06.574  INFO 9440 --- [http-nio-5000-exec-1] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:03:37.848  INFO 9440 --- [http-nio-5000-exec-3] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:03:37.848  INFO 9440 --- [http-nio-5000-exec-3] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:03:37.853  INFO 9440 --- [http-nio-5000-exec-3] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:03:49.264  INFO 9440 --- [http-nio-5000-exec-2] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:03:49.265  INFO 9440 --- [http-nio-5000-exec-2] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:03:49.270  INFO 9440 --- [http-nio-5000-exec-2] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:04:00.753  INFO 9440 --- [http-nio-5000-exec-4] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:04:00.754  INFO 9440 --- [http-nio-5000-exec-4] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:04:00.759  INFO 9440 --- [http-nio-5000-exec-4] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:05:07.446  INFO 9440 --- [http-nio-5000-exec-7] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:05:07.447  INFO 9440 --- [http-nio-5000-exec-7] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:05:07.452  INFO 9440 --- [http-nio-5000-exec-7] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 00:05:16.394  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Controller.StudentController       : Get student details Controller  method called
+2023-06-10 00:05:16.395  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Service.StudentDetailsService      : GET by the Student ID service method called
+2023-06-10 00:05:16.401  INFO 9440 --- [http-nio-5000-exec-8] t.p.s.Service.StudentDetailsService      : The Student Details is successfully returned 
+2023-06-10 04:25:41.623  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h31s716ms445µs500ns).
+2023-06-10 09:21:45.663  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h56m6s754ms957µs200ns).
+2023-06-10 09:37:13.798  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m55s945ms420µs400ns).
+2023-06-10 10:13:52.699  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m38s764ms206µs600ns).
+2023-06-10 11:14:41.719  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m18s963ms178µs100ns).
+2023-06-10 12:32:41.691  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m26s79ms584µs300ns).
+2023-06-10 12:40:27.621  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m15s834ms422µs400ns).
+2023-06-10 12:55:00.205  WARN 9440 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m32s584ms160µs600ns).
